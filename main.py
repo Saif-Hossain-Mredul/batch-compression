@@ -1,6 +1,5 @@
 import os
 from pathlib import Path
-import subprocess, shlex
 
 files_directory = input("Enter directory path: ")
 
